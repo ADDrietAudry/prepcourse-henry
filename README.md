@@ -1,2 +1,1 @@
-# prepcourse-henry
-repositorio de prueba del modulo 2 de henry
+proyecto de prueba para pasar al repositorio local   
